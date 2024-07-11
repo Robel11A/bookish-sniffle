@@ -16,3 +16,10 @@ npm install
 npm satrt
 
 # Video Walkthrough:
+
+### Demo 1
+![link demo video](/bookish-sniffle/videos/first%20get%20routes.mov)
+![link demo video](/bookish-sniffle/videos/second%20get%20routes.mov)
+![link demo video](/bookish-sniffle/videos/third%20get%20routes.mov)
+
+
